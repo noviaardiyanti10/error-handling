@@ -1,4 +1,4 @@
-# express-project
+# Suit game with error handling
 
 Suit game project with express and template engine using ejs. To run this file please do this step:
   - npm init -y
